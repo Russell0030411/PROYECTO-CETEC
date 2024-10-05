@@ -1,0 +1,17 @@
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\bin\Debug\CineTEC.exe.config
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\bin\Debug\CineTEC.exe
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\bin\Debug\CineTEC.pdb
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.csproj.AssemblyReference.cache
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Properties.Resources.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.csproj.GenerateResource.cache
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.exe
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.pdb
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Splash.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Dashboard.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Contenedores.VistaPeliculas.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Modales.ReservarPeliculaUno.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Modales.ReservarPeliculaDos.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Modales.ReservarPeliculaTres.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Contenedores.VistaSalas.resources
+C:\Users\russe\source\CETEC\ProyectoProgramador\CineTEC\obj\Debug\CineTEC.Vistas.Contenedores.VistaCombos.resources
